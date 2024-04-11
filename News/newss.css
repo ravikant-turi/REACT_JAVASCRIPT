@@ -46,12 +46,24 @@ nav{
     border: none;
     margin-left: 10px;
 }
+/* .navbar-second{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: aquamarine; */
+    /* align-items: center;
+    padding: 1.3rem 0;
+    font-size: 1.8rem;
+} */
+/* .navbar-second:hover{
+    color: aqua;
+}  */
 #blog-container{
-    padding: 3rem 0;
+     padding:3rem;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
-    flex-wrap: wrap;
+    flex-wrap: wrap; 
+    
 }
 .blog-card{
     width: 280px;
